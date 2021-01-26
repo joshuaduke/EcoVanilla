@@ -1,0 +1,19 @@
+{
+  "name": "ecoreact",
+  "version": "1.0.0",
+  "description": "Eco2bureau Freelance Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuaduke/EcoVanilla.git"
+  },
+  "author": "Joshua Duke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuaduke/EcoVanilla/issues"
+  },
+  "homepage": "https://github.com/joshuaduke/EcoVanilla#readme"
+}
